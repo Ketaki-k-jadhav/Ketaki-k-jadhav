@@ -9,7 +9,7 @@ I am a final year Computer Engineering student at College of Engineering, Pune.
 
 - 🔭 I’m currently working on Docker and Jenkins
 - 🌱 I’m currently learning basics of Java.
-- :woman_technologist:I'm interested in Deep learning.
+- :woman_technologist: I'm interested in Deep learning.
 </br>
 </br>
 
