@@ -13,11 +13,11 @@ I am a final year Computer Engineering student at College of Engineering, Pune.
 
 
 ## Languages known:
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="80"></img>
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="80"></img>
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="80"></img>
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="80"></img>
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="80"></img>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="80"></img>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="80"></img>
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="80"/></img>
+<a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="80"/></img>
+<a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="80"></img>
 
 
 
